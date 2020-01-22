@@ -1,6 +1,6 @@
-name: Node CI
-
 on: [push]
+
+name: Node CI
 
 jobs:
   build:
